@@ -129,7 +129,7 @@ Ich zeichne mich durch eine schnelle Auffassungsgabe, strukturiertes Arbeiten un
     </tr>
     <tr>
       <td>IDE</td>
-      <td>⭐⭐⭐☆☆</td>
+      <td>⭐⭐⭐ ☆ ☆</td>
       <td>Refactoring-Tools, Debugging</td>
     </tr>
     <tr>
