@@ -122,7 +122,7 @@ Ich zeichne mich durch eine schnelle Auffassungsgabe, strukturiertes Arbeiten un
       <td>⭐⭐⭐⭐ ☆</td>
       <td>Excel-Formeln, Professionelle Präsentationen</td>
     </tr>
-      <tr>
+    <tr>
       <td>Linux</td>
       <td>⭐⭐⭐ ☆ ☆</td>
       <td>Flexibel & Open-Source</td>
