@@ -179,16 +179,16 @@
         <h3>🔹 Terminalbasierte NoSQL-Datenbankverwaltung für Spieledaten</h3>
         <p><strong>Beschreibung:</strong> Eine Python-Anwendung zur Verwaltung einer NoSQL-Datenbank (spiele mit Collection pcgames), die Spiele mit Eigenschaften wie Titel, Ausgabejahr, Download-Zahlen, Altersgrenze, Art und Wertung speichert. Das Terminal-basierte Programm ermöglicht das Hinzufügen, Ändern, Löschen und Suchen von Spielen über PyMongo. Es wurde mit Fokus auf Benutzerfreundlichkeit und effiziente Abfragen gestaltet.</p>
         <p><strong>Technologien:</strong> MongoDB und Python</p>
-        <img src="https://i.imgflip.com/9yb0ul.gif" alt="Beispielbild von Wikipedia" />
-        <p><strong>Link:</strong> <a href="https://github.com/Simulant235/Modularbeit-M165" target="_blank">Modularbeit-M165</a></p>
+        <img src="Screenshot 2025-06-30 111614.png" alt="Beispielbild von Wikipedia" />
+        <p><strong>Link:</strong> <a href="https://github.com/BehrsHasan23/Modularbeit-M165" target="_blank">Modularbeit-M165</a></p>
 </section>
 <br>
 <!-- KONTAKT -->
 <section>
     <h2>📞 Kontakt</h2>
     <ul>
-        <li><strong>Email:</strong> <a href="mailto:zulfugar.aliev@stud.edbus.ch">zulfugar.aliev@stud.edbus.ch</a></li>
-        <li><strong>Github:</strong> <a href="https://github.com/Simulant235"  target="_blank">github.com/deinname</a></li>
+        <li><strong>Email:</strong> <a href="mailto:behrs.hasan@stud.edbus.ch">behrs.hasan@stud.edbus.ch</a></li>
+        <li><strong>Github:</strong> <a href="https://github.com/BehrsHasan23"  target="_blank">github.com/deinname</a></li>
     </ul>
 </section>
 <br>
@@ -208,6 +208,9 @@
     </p>
     <p>
         <a href="Zeugnis Sem. 3.jpg" target="_blank">🔗 Zeugnis Semester 3 als PDF</a>
+    </p>
+    <p>
+        <a href="Zeugnis Sem. 3.jpg" target="_blank">🔗 Zeugnis Semester 4 als PDF</a>
     </p>
     <h3>🔹 Modulnotenübersicht</h3>
     <p>
