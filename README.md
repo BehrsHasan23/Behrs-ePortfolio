@@ -229,6 +229,10 @@ Ich zeichne mich durch eine schnelle Auffassungsgabe, strukturiertes Arbeiten un
     <p>
         <a href="Delf_B1_Behrs_Hasan.pdf" target="_blank">🔗 Vollständige Delf B1 als PDF</a>
     </p>
+    <h3>🔹 Ausbildungsbeschrieb für Praktikumsbetriebe</h3>
+    <p>
+        <a href="3_IMS_Ausbildungsbeschrieb_für_Praktikumsbetriebe.pdf" target="_blank">🔗 Vollständige Ausbildungsbeschrieb B1 als PDF</a>
+    </p>
 </section>
 
 </body>
