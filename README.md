@@ -10,9 +10,9 @@
 <section>
     <h2>👋 Über mich</h2>
     <p>
-        Ich bin 17 Jahre alt und besuche momentan die Informatikmittelschule Basel mit voraussichtlichem Abschluss im Jahr 2026.
-        Meine Leidenschaft gilt dem Bereich Datenbankmanagement und der Entwicklung von Webapplikationen.
-        Ich überzeuge durch schnelle Auffassungsgabe, strukturiertes Denken und hohe Lernbereitschaft.
+        Ich bin Behrs Hasan, 18 Jahre alt, und besuche die Informatikmittelschule Basel mit voraussichtlichem Abschluss im Jahr 2026.
+Meine Leidenschaft gilt der Webentwicklung und dem Erstellen benutzerfreundlicher Applikationen.
+Ich zeichne mich durch eine schnelle Auffassungsgabe, strukturiertes Arbeiten und die Motivation aus, immer Neues zu lernen – besonders bei praktischen Projektarbeiten.
     </p>
     <p>
         Ziel ist es, erste praktische Erfahrungen als Entwickler oder Datenbankadministrator zu sammeln und mich langfristig in diesem Bereich weiterzuentwickeln.
