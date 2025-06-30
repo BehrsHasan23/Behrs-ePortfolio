@@ -218,7 +218,7 @@
     </p>
     <h3>🔹 Standortanalyse</h3>
     <p>
-        <a href="Behrs-ePortfolio/2a. IDAF IV - Standortanalyse_Behrs_Hasan.pdf" target="_blank">🔗 Vollständige Standortanalyse als PDF</a>
+        <a href="2a. IDAF IV - Standortanalyse_Behrs_Hasan.pdf" target="_blank">🔗 Vollständige Standortanalyse als PDF</a>
     </p>
     <h3>🔹 Delf B1</h3>
     <p>
