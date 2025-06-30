@@ -199,7 +199,7 @@
     <p>
         <a href="Lebenslauf_Zulfugar_Aliev.pdf" target="_blank">🔗 Vollständiges Lebenslauf als PDF</a>
     </p>
-    <h3>🔹 Zeugnisse Semester 1-3</h3>
+    <h3>🔹 Zeugnisse Semester 1-4</h3>
     <p>
         <a href="Zeugnis Sem. 1.jpg" target="_blank">🔗 Zeugnis Semester 1 als PDF</a>
     </p>
@@ -214,7 +214,7 @@
     </p>
     <h3>🔹 Modulnotenübersicht</h3>
     <p>
-        <a href="Modulnotenübersicht.pdf" target="_blank">🔗 Vollständige Modulnotenübersicht als PDF</a>
+        <a href="Mo" target="_blank">🔗 Vollständige Modulnotenübersicht als PDF</a>
     </p>
 </section>
 
