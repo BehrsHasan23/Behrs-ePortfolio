@@ -188,7 +188,7 @@
     <h2>📞 Kontakt</h2>
     <ul>
         <li><strong>Email:</strong> <a href="mailto:behrs.hasan@stud.edbus.ch">behrs.hasan@stud.edbus.ch</a></li>
-        <li><strong>Github:</strong> <a href="https://github.com/BehrsHasan23"  target="_blank">github.com/deinname</a></li>
+        <li><strong>Github:</strong> <a href="https://github.com/BehrsHasan23"  target="_blank">github.com/BehrsHasan23</a></li>
     </ul>
 </section>
 <br>
@@ -197,24 +197,32 @@
     <h2>📄 Dokumente</h2>
     <h3>🔹 Lebenslauf inkl. Noten</h3>
     <p>
-        <a href="Lebenslauf_Zulfugar_Aliev.pdf" target="_blank">🔗 Vollständiges Lebenslauf als PDF</a>
+        <a href="Lebenslauf Behrs.Hasan.pdf" target="_blank">🔗 Vollständiges Lebenslauf als PDF</a>
     </p>
     <h3>🔹 Zeugnisse Semester 1-4</h3>
     <p>
-        <a href="Zeugnis Sem. 1.jpg" target="_blank">🔗 Zeugnis Semester 1 als PDF</a>
+        <a href="Behrs Zeugnis 23-24 S1.pdf" target="_blank">🔗 Zeugnis Semester 1 als PDF</a>
     </p>
     <p>
-        <a href="Zeugnis Sem. 2.jpg" target="_blank">🔗 Zeugnis Semester 2 als PDF</a>
+        <a href="Behrs Zeugnis 23-24 S2.pdf" target="_blank">🔗 Zeugnis Semester 2 als PDF</a>
     </p>
     <p>
-        <a href="Zeugnis Sem. 3.jpg" target="_blank">🔗 Zeugnis Semester 3 als PDF</a>
+        <a href="Behrs Zeugnis 24-25 S1.pdf" target="_blank">🔗 Zeugnis Semester 3 als PDF</a>
     </p>
     <p>
-        <a href="Zeugnis Sem. 3.jpg" target="_blank">🔗 Zeugnis Semester 4 als PDF</a>
+        <a href="Behrs Zeugnis 24-25 S2.pdf" target="_blank">🔗 Zeugnis Semester 4 als PDF</a>
     </p>
     <h3>🔹 Modulnotenübersicht</h3>
     <p>
-        <a href="Mo" target="_blank">🔗 Vollständige Modulnotenübersicht als PDF</a>
+        <a href="Modulnotenübersicht_Behrs.Hasan.pdf" target="_blank">🔗 Vollständige Modulnotenübersicht als PDF</a>
+    </p>
+    <h3>🔹 Standortanalyse</h3>
+    <p>
+        <a href="2a. IDAF IV - Standortanalyse_Behrs_Hasan.pdf" target="_blank">🔗 Vollständige Standortanalyse als PDF</a>
+    </p>
+    <h3>🔹 Delf B1</h3>
+    <p>
+        <a href="Delf_B1_Behrs_Hasan.pdf" target="_blank">🔗 Vollständige Delf B1 als PDF</a>
     </p>
 </section>
 
