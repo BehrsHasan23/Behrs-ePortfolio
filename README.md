@@ -58,7 +58,7 @@ Ich zeichne mich durch eine schnelle Auffassungsgabe, strukturiertes Arbeiten un
     </tr>
     <tr>
       <td>Java</td>
-      <td>⭐⭐⭐⭐ ☆</td>
+      <td>⭐⭐⭐☆ ☆</td>
       <td>OOP, Interfaces, Collections, JUnit</td>
     </tr>
     <tr>
@@ -83,7 +83,7 @@ Ich zeichne mich durch eine schnelle Auffassungsgabe, strukturiertes Arbeiten un
     </tr>
     <tr>
       <td>SQL</td>
-      <td>⭐⭐⭐⭐ ☆</td>
+      <td>⭐⭐⭐☆ ☆</td>
       <td>Normalisierung, Datenmanipulation</td>
     </tr>
     <tr>
@@ -122,9 +122,14 @@ Ich zeichne mich durch eine schnelle Auffassungsgabe, strukturiertes Arbeiten un
       <td>⭐⭐⭐⭐ ☆</td>
       <td>Excel-Formeln, Professionelle Präsentationen</td>
     </tr>
+      <tr>
+      <td>Linux</td>
+      <td>⭐⭐⭐ ☆ ☆</td>
+      <td>Flexibel & Open-Source</td>
+    </tr>
     <tr>
       <td>IDE</td>
-      <td>⭐⭐⭐⭐⭐</td>
+      <td>⭐⭐⭐☆☆</td>
       <td>Refactoring-Tools, Debugging</td>
     </tr>
     <tr>
@@ -134,7 +139,7 @@ Ich zeichne mich durch eine schnelle Auffassungsgabe, strukturiertes Arbeiten un
     </tr>
     <tr>
       <td>MySQL</td>
-      <td>⭐⭐⭐⭐⭐</td>
+      <td>⭐⭐⭐⭐☆</td>
       <td>Datenbankverwaltung, Abfragen</td>
     </tr>
     <tr>
@@ -144,7 +149,7 @@ Ich zeichne mich durch eine schnelle Auffassungsgabe, strukturiertes Arbeiten un
     </tr>
     <tr>
       <td>ProjectLibre</td>
-      <td>⭐⭐⭐⭐ ☆</td>
+      <td>⭐⭐⭐⭐⭐</td>
       <td>Projektplanung, Gantt-Diagramme</td>
     </tr>
   </table>
